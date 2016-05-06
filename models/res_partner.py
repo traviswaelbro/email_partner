@@ -27,7 +27,7 @@ class res_partner(osv.osv):
             # 'default_use_template': bool(template_id),
             # 'default_template_id': template_id,
             'default_use_template': True,
-            'default_template_id': 27,
+            'default_template_id': 1,
             'default_composition_mode': 'comment',
         })
         return {
